@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.main-bg {
+  color: #000000;
+  height: 100vh;
+}
+
+.bg-heading {
+  color: #00e7ff;
+  font-size: 30px;
+}
+
+.image-design {
+  height: 200px;
+  width: 300px;
+}
